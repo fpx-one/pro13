@@ -1,20 +1,35 @@
 - VoodooGPIO:
 
   Version:	1.1
+  
   Last Modified:	2019/11/13, 10:43 AM
+  
   Bundle ID:	org.coolstar.VoodooGPIO
+  
   Notarized:	No
+  
   Loaded:	Yes
+  
   Obtained from:	Unknown
+  
   Kind:	Intel
+  
   Architectures:	x86_64
+  
   64-Bit (Intel):	Yes
+  
   Location:	/Library/Extensions/VoodooI2C.kext/Contents/PlugIns/VoodooGPIO.kext
+  
   Kext Version:	1.1
+  
   Load Address:	18446743521819870000
+  
   Loadable:	No
+  
   Signature Validation Errors:	Kext signature validation error code -67050
+  
   Dependencies:	Satisfied
+  
   Signed by:	Unknown
 
 - VoodooI2C:
