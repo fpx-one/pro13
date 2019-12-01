@@ -40,9 +40,10 @@
   
   Bundle ID:	com.alexandred.VoodooI2C
   
+  
   Notarized:	Unknown
   
-  Loaded:	No
+  Loaded:	Yes
   
   Obtained from:	Unknown
   
@@ -56,41 +57,11 @@
   
   Kext Version:	2.2
   
+  Load Address:	18446743521862836000
+  
   Loadable:	No
   
   Signature Validation Errors:	Kext signature validation error code -67030
-  
-  Dependencies:	Satisfied
-  
-  Signed by:	Unknown
-  
-- VoodooI2CHID:
-
-  Version:	1.0
-  
-  Last Modified:	2019/5/31, 12:51 AM
-  
-  Bundle ID:	com.alexandred.VoodooI2CHID
-  
-  Notarized:	No
-  
-  Loaded:	No
-  
-  Obtained from:	Unknown
-  
-  Kind:	Intel
-  
-  Architectures:	x86_64
-  
-  64-Bit (Intel):	Yes
-  
-  Location:	/Library/Extensions/VoodooI2CHID.kext
-  
-  Kext Version:	1
-  
-  Loadable:	No
-  
-  Signature Validation Errors:	Kext signature validation error code -67050
   
   Dependencies:	Satisfied
   
